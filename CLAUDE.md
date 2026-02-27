@@ -2,7 +2,7 @@
 
 ## Overview
 
-A biweekly reading group surveying foundational literature in **macro strategy** — Nick Bostrom's term for the effort to understand how our current choices relate to long-term outcomes and ultimate values. Draws on philosophy, economics, physics, computer science, sociology, and political science. Week 1 (Foundations) has met; Week 2 is upcoming.
+A biweekly reading group surveying foundational literature in **macro strategy** — Nick Bostrom's term for the effort to understand how our current choices relate to long-term outcomes and ultimate values. Draws on philosophy, economics, physics, computer science, sociology, and political science.
 
 > "My research efforts, while they may appear scattershot, generally share one aim, which is to better understand what I call our 'macrostrategic situation'. By this I mean the larger context in which human civilization exists, and in particular how our current choices relate to long-term outcomes or ultimate values. I think we are fairly profoundly in the dark on such matters. You could say that we are like ants, who may be very busy schlepping needles from one point to another, but with little notion as to what they are doing, why they are doing it, or whether in the final reckoning it was good that they did it."
 
