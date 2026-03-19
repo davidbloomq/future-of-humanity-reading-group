@@ -45,7 +45,7 @@ reading-group/
 
 ## Website
 
-GitHub repo: `davidbloomq/future-of-humanity-reading-group` · Branch: `main`
+GitHub repo: `davidbloomq/reading-group` · Branch: `main`
 
 Site files live in `website/` only. Edit and push to deploy via GitHub Pages. When asked to update the website, always commit and push the changes unless told otherwise.
 
